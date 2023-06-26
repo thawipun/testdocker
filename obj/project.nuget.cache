@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M4DHr+eC1x9sIFH27cQPARnxi6gOdTNFQ4FjhkEXrIvq9vksO6gW6OdzP5TuL010UvK3DYXoYdALFddDlKhM/A==",
+  "success": true,
+  "projectFilePath": "D:\\WORK\\ปีงบ_66\\docker\\testdocker\\testdocker\\testdocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\008433\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
